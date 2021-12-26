@@ -1,0 +1,17 @@
+type Query {
+    departmentByOrganizationId(organizationId: Int): [Department]
+}
+#scalar Long
+type Department {
+    id: ID!
+    organizationId: Int!
+    name: String!
+    employees: [Employee]
+}
+
+type Employee {
+    id: ID!
+    name: String!
+    position: String!
+    salary: Int!
+}

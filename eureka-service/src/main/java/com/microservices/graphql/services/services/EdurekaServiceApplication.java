@@ -1,4 +1,4 @@
-package com.microservices.graphql.services;
+package com.microservices.graphql.services.services;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

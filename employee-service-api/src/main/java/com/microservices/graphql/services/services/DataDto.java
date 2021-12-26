@@ -1,6 +1,6 @@
-package com.microservices.graphql.services;
+package com.microservices.graphql.services.services;
 
-import com.microservices.graphql.services.model.Employee;
+import com.microservices.graphql.services.services.model.Employee;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package com.microservices.graphql.services.model;
+package com.microservices.graphql.services.services.model;
 
 import lombok.*;
 

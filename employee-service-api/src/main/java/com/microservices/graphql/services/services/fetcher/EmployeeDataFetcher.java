@@ -1,7 +1,7 @@
-package com.microservices.graphql.services.fetcher;
+package com.microservices.graphql.services.services.fetcher;
 
-import com.microservices.graphql.services.DataDto;
-import com.microservices.graphql.services.model.Employee;
+import com.microservices.graphql.services.services.DataDto;
+import com.microservices.graphql.services.services.model.Employee;
 import com.netflix.graphql.dgs.DgsComponent;
 import com.netflix.graphql.dgs.DgsQuery;
 import com.netflix.graphql.dgs.InputArgument;

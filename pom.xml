@@ -7,7 +7,8 @@
 	<modules>
 		<module>eureka-service</module>
 		<module>employee-service-api</module>
-	</modules>
+        <module>department-service-api</module>
+    </modules>
 	<packaging>pom</packaging>
 
 </project>
