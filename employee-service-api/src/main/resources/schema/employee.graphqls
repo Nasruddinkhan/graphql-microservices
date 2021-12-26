@@ -1,0 +1,12 @@
+type Query {
+    employees(departmentId: Int): [Employee]
+}
+type Employee {
+    id: ID!
+    organizationId: Int!
+    departmentId: Int!
+    name: String!
+    age: Int!
+    position: String!
+    salary: Int!
+}
